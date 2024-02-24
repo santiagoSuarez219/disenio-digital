@@ -1,0 +1,5 @@
+MuxProject/*.cache
+MuxProject/*.hw
+MuxProject/*.ip_user_files
+MuxProject/*.sim
+MuxProject/*.xpr
